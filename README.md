@@ -12,11 +12,11 @@
 
 | Assignment | File |
 | :--- | :--- |
-| Personal Essay | [Personal essay.pdf](Personal_works/Assignment1.pdf) |
-| Assignment 2 | [Assignment 2.pdf](/Personal_Work/Assignment2.pdf) |
-| Assignment 3 | [Assignment 3.pdf](/Personal_Work/Assignment3.pdf) |
-| Assignment 4 | [Assingment 4.pdf](/Personal_Work/Assignment4.pdf) |
-| Assignment 5 | [Lab 5.pdf](/Personal_Work/LAB5.pdf) |
+| Personal Essay | [Assignment1.pdf](/Personal_works/Assignment1.pdf) |
+| Assignment 2 | [Assignment2.pdf](/Personal_works/Assignment2.pdf) |
+| Assignment 3 | [Assignment3.pdf](/Personal_works/Assignment3.pdf) |
+| Assignment 4 | [Assingment4.pdf](/Personal_works/Assignment4.pdf) |
+| Assignment 5 | [Lab5.pdf](/Personal_works/LAB5.pdf) |
 
 ---
 
@@ -24,11 +24,11 @@
 
 | LAB | PDF File |
 | :--- | :--- |
-| LAB 1 | [LAB 1.pdf](/Group_Work/G19Lab1.pdf) |
-| LAB 2 | [LAB 2.pdf](/Group_Work/G19Lab2.pdf) |
-| LAB 3 | [LAB 3.pdf](/Group_Work/G19Lab3.pdf) |
-| LAB 4 | [LAB 4.pdf](/Group_Work/G19Lab4.pdf) |
-| New Network | [SprintAlpha](/Group_Work/SprintAlpha) |
+| LAB 1 | [LAB 1.pdf](/Group_works/G19Lab1.pdf) |
+| LAB 2 | [LAB 2.pdf](/Group_works/G19Lab2.pdf) |
+| LAB 3 | [LAB 3.pdf](/Group_works/G19Lab3.pdf) |
+| LAB 4 | [LAB 4.pdf](/Group_works/G19Lab4.pdf) |
+| New Network | [SprintAlpha](/Group_works/SprintAlpha) |
 
 ---
 
