@@ -12,11 +12,11 @@
 
 | Assignment | File |
 | :--- | :--- |
-| Personal Essay | [Personal essay.pdf](Personal_works/Assignment-1-personal-essay.pdf) |
+| Personal Essay | [Personal essay.pdf](Personal_works/Assignment1.pdf) |
 | Assignment 2 | [Assignment 2.pdf](/Personal_Work/Assignment2.pdf) |
 | Assignment 3 | [Assignment 3.pdf](/Personal_Work/Assignment3.pdf) |
 | Assignment 4 | [Assingment 4.pdf](/Personal_Work/Assignment4.pdf) |
-| Assignment 5 | [Lab 5.pdf](/Personal_Work/LAB_5.pdf) |
+| Assignment 5 | [Lab 5.pdf](/Personal_Work/LAB5.pdf) |
 
 ---
 
@@ -24,11 +24,11 @@
 
 | LAB | PDF File |
 | :--- | :--- |
-| LAB 1 | [LAB 1.pdf](/Group_Work/G19%20Lab%201.pdf) |
-| LAB 2 | [LAB 2.pdf](/Group_Work/G19%20Lab%202.pdf) |
-| LAB 3 | [LAB 3.pdf](/Group_Work/G19%20Lab%203.pdf) |
-| LAB 4 | [LAB 4.pdf](/Group_Work/G19%20Lab%204.pdf) |
-| New Network | [New Network.pdf](/Group_Work/G19%20New%20Network.pdf) |
+| LAB 1 | [LAB 1.pdf](/Group_Work/G19Lab1.pdf) |
+| LAB 2 | [LAB 2.pdf](/Group_Work/G19Lab2.pdf) |
+| LAB 3 | [LAB 3.pdf](/Group_Work/G19Lab3.pdf) |
+| LAB 4 | [LAB 4.pdf](/Group_Work/G19Lab4.pdf) |
+| New Network | [SprintAlpha](/Group_Work/SprintAlpha) |
 
 ---
 
@@ -46,8 +46,8 @@
 
 ---
 ## Certificates
-*[CCNA-Introduction to Networks](./Certificates/CCNA-_Introduction_to_Networks_certificate_chakrit-pu-kkumail-com_d286bbb4-28ba-4b29-bfe4-5e9af89545b3.pdf)*
+*[CCNA-Introduction to Networks](./Certificates/CCNA-_Introduction_to_Networks_certificate_viphu-h-kkumail-com_f631bfc9-5de1-40db-a83b-7e0f07956755.pdf)*
 
-*[Getting Started with Cisco Packet Tracer](./Certificates/Getting_Started_with_Cisco_Packet_Tracer_certificate_chakrit-pu-kkumail-com_adb7ea88-db8a-4002-a4e6-51144b259f35.pdf)*
+*[Getting Started with Cisco Packet Tracer](./Certificates/Getting_Started_with_Cisco_Packet_Tracer_certificate_viphu-h-kkumail-com_64f9f41e-57bf-4dd3-bf41-06b2913b3d6b.pdf)*
 
 ---
