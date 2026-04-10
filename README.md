@@ -41,7 +41,9 @@
 ### Final Project
 
 **GitHub** : https://github.com/viphu-cs/Final-Project-Computer-Networks-68-2_Edge-AI-Smart-Warehouse-Network
+
 **Video** : https://youtube.com/shorts/FvXbPps7QYA?si=E_yrMPXHSUJu69KT
+
 **Website** : https://viphu-cs.github.io/-Website-Final-Project-Computer-Networks-68-2_Edge-AI-Smart-Warehouse-Network/
 
 ---
